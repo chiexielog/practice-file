@@ -71,3 +71,11 @@ a{
     display: inline-block;
     width: 100%;
 }
+
+h1{
+
+    margin: 100px;
+    text-align: center;
+    padding: 0;
+    
+}
